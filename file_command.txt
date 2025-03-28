@@ -1,0 +1,3 @@
+cp -r /media/siyanhu/T7/HKUST/scene_atrium/train_dataset/images/* /media/siyanhu/T7/HKUST/FullRecon/frames/
+cp -r /media/siyanhu/T7/HKUST/scene_concourse/train_dataset/images /media/siyanhu/T7/HKUST/FullRecon/frames/
+cp -r /media/siyanhu/T7/HKUST/night_scene/frames/concourse/* /media/siyanhu/T7/HKUST/FullRecon/frames/
